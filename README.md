@@ -44,3 +44,9 @@ This is a collection of projects done for 100 days of computer vision
 ## Day 11: 
 
 ![11](https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/a05b7adc-6896-41aa-82e0-08bb5cdbc9af)
+
+## Day 12: 
+
+![Screenshot 2024-03-21 043507](https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/697691bc-6559-41b1-9054-b19a5a5bbc82)
+
+
