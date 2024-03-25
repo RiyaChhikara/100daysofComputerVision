@@ -65,4 +65,9 @@ This is a collection of projects done for 100 days of computer vision
 
 ![16](https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/7d421e00-884c-4657-857f-ee0f9c207a70)
 
+## Day 17: 
+
+![image](https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/e11d86ea-e6fe-4515-a52a-c0cc01dc4436)
+
+
 
