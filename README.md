@@ -69,5 +69,10 @@ This is a collection of projects done for 100 days of computer vision
 
 ![image](https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/e11d86ea-e6fe-4515-a52a-c0cc01dc4436)
 
+## Day 18: 
+
+![soccer](https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/4bbcb0cf-9d37-4fb9-808c-e55ae23eaac9)
+
+
 
 
