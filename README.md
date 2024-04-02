@@ -91,6 +91,7 @@ This is a collection of projects done for 100 days of computer vision
 
 ## Day 23: 
 
+![image](https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/2992944e-af9d-4836-a756-001addc5bcac)
 
 # Day 24: 
 
