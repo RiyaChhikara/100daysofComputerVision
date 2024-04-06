@@ -108,3 +108,7 @@ This is a collection of projects done for 100 days of computer vision
 ## Day 27: 
 
 <img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/50ab551e-2bd1-4b92-8c38-2db470220c08" width="700" height="300">
+
+## Day 28: 
+
+<img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/461b6db4-5356-406f-bab6-7818cccd267d" width="700" height="300">
