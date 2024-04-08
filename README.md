@@ -107,17 +107,17 @@ This is a collection of projects done for 100 days of computer vision
 
 ## Day 27: 
 
-<img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/50ab551e-2bd1-4b92-8c38-2db470220c08" width="700" height="300">
+<img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/50ab551e-2bd1-4b92-8c38-2db470220c08" width="500" height="300">
 
 ## Day 28: 
 
-<img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/461b6db4-5356-406f-bab6-7818cccd267d" width="700" height="300">
+<img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/461b6db4-5356-406f-bab6-7818cccd267d" width="500" height="300">
 
 ## Day 29: 
 
-<img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/8eaf0752-f207-48a3-98ba-0e1d5ea38230" width="700" height="300">
+<img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/8eaf0752-f207-48a3-98ba-0e1d5ea38230" width="500" height="300">
 
 ## Day 30: 
 
-<img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/0821af9d-5044-48f3-b2ed-fffde7ccb9f5" width="700" height="300">
+<img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/0821af9d-5044-48f3-b2ed-fffde7ccb9f5" width="500" height="300">
 
