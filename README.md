@@ -129,7 +129,7 @@ This is a collection of projects done for 100 days of computer vision
 
 <img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/eb364de0-03b9-477e-8eab-01718ad645f9" width="500" height="300">
 
-## Day 33-34: 
+## Days 33-34: 
 
 <img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/75916367-26cb-484e-8cbf-eb7e21982ab8" width="500" height="300">
 
@@ -142,11 +142,11 @@ This is a collection of projects done for 100 days of computer vision
 ## Day 37:
 <img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/9d09503f-e169-4a8d-97e8-9e9ae2d8b6cb" width="500" height="400">
 
-## Day 38-39: 
+## Days 38-39: 
 <img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/09088691-b966-4c80-a350-96e6be44eee1" width="500" height="400">
 
 ## Day 40: 
 <img src="https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/3b5cc372-e93a-4f57-a0c6-0e04c2bf1b05" width="500" height="400">
 
-## Day 41: 
-<img src= "https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/5d84eea4-4ef6-461c-87f0-6614c6d7ba22" width="500" height="400">
+## Days 41-42: 
+<img src= "https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/79f0a366-64d3-439a-a861-7f931a58cb57" width="500" height="400">
