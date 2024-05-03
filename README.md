@@ -150,3 +150,6 @@ This is a collection of projects done for 100 days of computer vision
 
 ## Days 41-42: 
 <img src= "https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/79f0a366-64d3-439a-a861-7f931a58cb57" width="500" height="400">
+
+## Day 44: 
+<img src= "https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/3361d2b9-5cfb-4404-88af-127961e0d584" width="500" height="400">
