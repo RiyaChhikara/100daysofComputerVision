@@ -153,3 +153,6 @@ This is a collection of projects done for 100 days of computer vision
 
 ## Day 44: 
 <img src= "https://github.com/RiyaChhikara/100daysofComputerVision/assets/115228191/3361d2b9-5cfb-4404-88af-127961e0d584" width="500" height="400">
+
+## Day 45: 
+Baseline models 
